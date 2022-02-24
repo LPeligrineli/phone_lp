@@ -30,3 +30,9 @@ Para os ícones, recomendamos que utilize alguma biblioteca, como o Font Awesome
 
 ## Tipo de fonte:
 - Montserrat
+
+## Fluxo de desenvolvimento
+- a branch master é a branch principal do repositório;
+- Você deve criar uma branch a partir da master
+- a medida que for concluindo os pedaços da pagina subir a sua branch para o github e abrir PR para que eu possa avaliar o seu código e sugerir mehorias;
+- quando tudo estiver ok realizamos o merge com a master
