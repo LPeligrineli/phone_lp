@@ -62,7 +62,8 @@ padding: 10px;
 }
 
 .fone img{
-  height: 500px;
+  height: 400px;
+  margin-bottom: 100px;
 }
 
 .main {
@@ -88,14 +89,23 @@ margin-top: 20px;
   color: #707070;
 }
 
+.estrelas p {
+margin-left: 15px;
+}
+
 .valor {
+  margin-right: 85px;
+  margin-bottom: 25px;
   color: black;
-  margin-top: 30px;
+  margin-top: 25px;
   font-weight: bold;
   font-size: 2rem;
 }
 
-button {
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-weight: bold;
   letter-spacing: 1.5px;
   border-style: none;
@@ -105,7 +115,7 @@ button {
   height: 50px;
 }
 
-.button {
+.button_hover {
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;
 }
@@ -118,6 +128,7 @@ button {
 }
 
 .footer {
+  display: flex;
   background-color: #ca3b3a;
-  width: 75%;
+  width: 95%;
 }
