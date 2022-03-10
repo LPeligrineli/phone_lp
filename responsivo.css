@@ -1,0 +1,26 @@
+/*Estilo para tablets*/
+@media only screen and (min-width: 788px) and (max-width: 979px) {
+  /*Header*/
+
+ 
+
+  
+ 
+
+
+  /*Footer*/
+  
+} /*Final do estilo para tablet*/
+
+
+/*Estilo para smartphone*/
+@media only screen and (max-width: 787px) {
+  /*Header*/
+
+
+
+
+
+  /*Footer*/
+
+} /*Final do estilo para smartphone*/

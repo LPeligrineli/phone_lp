@@ -57,10 +57,6 @@ padding: 10px;
   margin-left: 25px;
 }
 
-.menu li a {
-  display: block;
-}
-
 .fone img{
   height: 400px;
   margin-bottom: 100px;
@@ -129,6 +125,43 @@ margin-left: 15px;
 
 .footer {
   display: flex;
+  padding: 27px;
+  justify-content: center;
   background-color: #ca3b3a;
-  width: 95%;
+  position: fixed;
+	bottom: 0;
+  width: 100%;
+}
+
+.hz-footer {
+  display: flex;
+  margin-right: 100px;
+}
+
+.hz-footer img {
+margin-right: 10px;
+}
+
+
+.bt-footer {
+  display: flex;
+  margin-right: 100px;
+
+}
+
+.bt-footer img {
+  margin-right: 10px;
+  width: 30px;
+  height: 30px;
+}
+
+
+.batery-footer {
+  display: flex;  
+}
+
+.batery-footer img {
+  margin-right: 10px;
+  width: 30px;
+  height: 30px;
 }
